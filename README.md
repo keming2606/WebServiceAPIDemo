@@ -1,6 +1,6 @@
 # WebServiceAPIDemo
 
-To build the application,
+### To build application,
 
 (in eclipse) run as maven-build with:
 
@@ -8,7 +8,7 @@ Goals:
 ```
 clean compile
 ```
-To run the application,
+###  To run application,
 
 (in eclipse) run as Spring Boot App with:
 
@@ -17,7 +17,7 @@ Main type:
 com.example.kemingdemo.KemingDemoApplication
 ```
 
-To test the application,
+### To test application,
 
 (in eclipse) run as JUnit Test with:
 
