@@ -1,0 +1,12 @@
+package com.example.kemingdemo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class KemingDemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(KemingDemoApplication.class, args);
+	}
+}
